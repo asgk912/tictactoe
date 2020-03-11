@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asgk912/tictactoe.git"
+  },
+  "keywords": [
+    "tic-tac-toe"
+  ],
+  "author": "Albert Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asgk912/tictactoe/issues"
+  },
+  "homepage": "https://github.com/asgk912/tictactoe#readme",
+  "devDependencies": {}
+}
